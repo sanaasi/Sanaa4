@@ -1,0 +1,11 @@
+.navbar{
+    border-bottom: 5px solid #67b3fa;
+}
+
+header{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url(../images/home.jpg);
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
